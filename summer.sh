@@ -1,3 +1,5 @@
+#!/bin/bash
+
 declare -i sum=0
 while read tall
 do
